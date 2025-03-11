@@ -12,13 +12,13 @@ This is a simple **Movie Recommender System** built using **Python** and **Strea
 ## 📸 Screenshots
 
 ### **Example 1: Recommendation for *The Dark Knight Rises***
-![The Dark Knight Rises Recommendation](Screenshot%202025-03-11%20at%204.36.21%20PM.png)
+![The Dark Knight Rises Recommendation](ss1.png)
 
 ### **Example 2: Recommendation for *Spider-Man 3***
-![Spider-Man 3 Recommendation](Screenshot%202025-03-11%20at%204.36.35%20PM.png)
+![Spider-Man 3 Recommendation](ss2.png)
 
 ### **Example 3: Recommendation for *Cars 2***
-![Cars 2 Recommendation](Screenshot%202025-03-11%20at%204.38.06%20PM.png)
+![Cars 2 Recommendation](ss3.png)
 
 ## 🛠️ Installation
 
